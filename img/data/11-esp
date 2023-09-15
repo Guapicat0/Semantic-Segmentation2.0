@@ -1,0 +1,20 @@
+esp
+estimate sigma: 0.03964522788417007
+PSNR[orignal vs NoiseImgae]: 17.884152437546273
+PSNR[orignal vs Denoise[Bayes]]: 20.378986343274313
+PSNR[orignal vs Denoise[Visushrink]]: 20.455244333363552
+gaussain(默认为0.15）
+estimate sigma: 0.14161427770387436
+PSNR[orignal vs NoiseImgae]: 17.085862434631164
+PSNR[orignal vs Denoise[Bayes]]: 25.27435628177858
+PSNR[orignal vs Denoise[Visushrink]]: 23.89395995278555
+poisson
+salt
+estimate sigma: 0.03162650394442571
+PSNR[orignal vs NoiseImgae]: 20.317666321580017
+PSNR[orignal vs Denoise[Bayes]]: 21.543288697368293
+PSNR[orignal vs Denoise[Visushrink]]: 22.277802910243018
+pepper
+PSNR[orignal vs NoiseImgae]: 16.3464445522716
+PSNR[orignal vs Denoise[Bayes]]: 18.935343324155713
+PSNR[orignal vs Denoise[Visushrink]]: 18.95711433936925
