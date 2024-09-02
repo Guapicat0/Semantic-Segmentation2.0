@@ -1,0 +1,6 @@
+{datasets}  place the datasets here！！！
+--datasets/
+   --{datasets_name}/
+      --ImageSets
+      --JPEGImages
+      --SegmentationClass
